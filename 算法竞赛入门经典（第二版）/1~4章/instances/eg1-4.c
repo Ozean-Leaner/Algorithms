@@ -1,3 +1,6 @@
+/*
+* 已知鸡和兔的总数量为n，总腿数为m，输入n和m并依次输出鸡的数目和兔的数目，若无解输出No Answer
+*/
 #include <stdio.h>
 
 int main() {

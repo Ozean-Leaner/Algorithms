@@ -1,3 +1,6 @@
+/*
+* 输入底面半径r和高h，输出圆柱体的表面积，保留三位小数
+*/
 #include <stdio.h>
 #include <math.h>
 

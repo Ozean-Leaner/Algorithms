@@ -1,3 +1,6 @@
+/*
+* 输入三个整数，从小到大排序后输出
+*/
 #include <stdio.h>
 
 int main() {

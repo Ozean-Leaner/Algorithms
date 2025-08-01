@@ -1,3 +1,6 @@
+/*
+* 输入两数a, b，交换其值并输出
+*/
 #include <stdio.h>
 
 int main() {
