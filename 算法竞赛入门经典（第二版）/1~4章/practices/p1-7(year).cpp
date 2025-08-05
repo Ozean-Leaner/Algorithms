@@ -1,3 +1,6 @@
+/*
+ * 输入年份，判断是否为闰年，若是则输出yes，若不是则输出no
+ */
 #include <cstdio>
 
 int main() {

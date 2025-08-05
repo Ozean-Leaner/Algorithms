@@ -1,3 +1,6 @@
+/*
+ * 输入正整数n，输出1+2+...+n的值
+ */
 #include <cstdio>
 
 int main() {
